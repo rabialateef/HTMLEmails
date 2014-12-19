@@ -1,5 +1,5 @@
 $to = $email;
-$subject = "Pre-Order Form";
+$subject = "Email Subject Here";
 
 $message = "<html>
 <body>
